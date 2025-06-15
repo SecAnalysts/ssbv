@@ -84,3 +84,18 @@ If you find this project valuable and would like to support my child's education
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This project is intended **solely for educational and research purposes**.
+
+- Do **not** use this tool against systems or addresses you do not own or have explicit permission to analyze.
+- The developer of this tool is **not responsible** for any misuse, illegal activity, or damage caused by this script.
+- You are fully responsible for complying with your local laws and regulations regarding cryptography, data access, and security analysis.
+
+By using this project, you agree to use it **ethically and legally**.
+
+---
+
