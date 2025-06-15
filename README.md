@@ -63,9 +63,9 @@ python ssbv.py
 
 ## 💰 Donate
 
-If you find this project helpful or want to support future work:
+If you find this project valuable and would like to support my child's education and future endeavors, consider:
 
-**Bitcoin (BTC):**
+**Education Fund Bitcoin (BTC):**
 
 ```
 1sAXERLyPhg4Fg4rkhuRQfm9eek2NJo6V
